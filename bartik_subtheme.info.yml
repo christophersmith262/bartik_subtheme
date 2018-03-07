@@ -1,0 +1,9 @@
+name: Bartik Subtheme
+type: theme
+description: 'A theme to use for documentation examples.'
+package: Other
+core: 8.x
+libraries:
+  - bartik_subtheme/global-styling
+ 
+base theme: bartik
